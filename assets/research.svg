@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
+<title id="title">Active security research dashboard</title>
+<desc id="desc">Research focus across application security, product security, OT and ICS security, and AI security.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05080b"/><stop offset="1" stop-color="#07151a"/></linearGradient><pattern id="g" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#0b3035"/></pattern></defs>
+<rect width="1400" height="430" rx="20" fill="url(#bg)"/><rect x="18" y="18" width="1364" height="394" rx="16" fill="url(#g)" opacity=".6"/><rect x="18" y="18" width="1364" height="394" rx="16" fill="none" stroke="#00d9a0" stroke-width="2"/>
+<text x="55" y="64" fill="#00ff9c" font-family="monospace" font-size="22" letter-spacing="4">// ACTIVE RESEARCH</text>
+<text x="1345" y="64" text-anchor="end" fill="#5e8b91" font-family="monospace" font-size="13">RESEARCH_NODE / ACTIVE</text>
+<g font-family="monospace">
+<rect x="55" y="100" width="305" height="255" rx="13" fill="#061115" stroke="#00d9ff"/>
+<text x="80" y="138" fill="#00d9ff" font-size="18" font-weight="700">APPLICATION SECURITY</text>
+<path d="M80 153H335" stroke="#12434a"/>
+<text x="80" y="185" fill="#a9c4c8" font-size="14">Vulnerability Assessment</text><text x="80" y="214" fill="#a9c4c8" font-size="14">Security Testing</text><text x="80" y="243" fill="#a9c4c8" font-size="14">Secure Development</text><text x="80" y="272" fill="#00ff9c" font-size="13">VAPT · SAST · DAST · API</text>
+<rect x="385" y="100" width="305" height="255" rx="13" fill="#061115" stroke="#00ff9c"/>
+<text x="410" y="138" fill="#00ff9c" font-size="18" font-weight="700">PRODUCT SECURITY</text>
+<path d="M410 153H665" stroke="#12434a"/>
+<text x="410" y="185" fill="#a9c4c8" font-size="14">Device Security</text><text x="410" y="214" fill="#a9c4c8" font-size="14">Firmware Security</text><text x="410" y="243" fill="#a9c4c8" font-size="14">Protocol Security</text><text x="410" y="272" fill="#00d9ff" font-size="13">HARDENING · ASSESSMENT</text>
+<rect x="715" y="100" width="305" height="255" rx="13" fill="#061115" stroke="#00d9ff"/>
+<text x="740" y="138" fill="#00d9ff" font-size="18" font-weight="700">OT / ICS SECURITY</text>
+<path d="M740 153H995" stroke="#12434a"/>
+<text x="740" y="185" fill="#a9c4c8" font-size="14">Industrial Networks</text><text x="740" y="214" fill="#a9c4c8" font-size="14">Attack Path Analysis</text><text x="740" y="243" fill="#a9c4c8" font-size="14">Security Architecture</text><text x="740" y="272" fill="#00ff9c" font-size="13">IEC 62443 · ATT&amp;CK FOR ICS</text>
+<rect x="1045" y="100" width="300" height="255" rx="13" fill="#061115" stroke="#00ff9c"/>
+<text x="1070" y="138" fill="#00ff9c" font-size="18" font-weight="700">AI SECURITY</text>
+<path d="M1070 153H1320" stroke="#12434a"/>
+<text x="1070" y="185" fill="#a9c4c8" font-size="14">AI-assisted Security</text><text x="1070" y="214" fill="#a9c4c8" font-size="14">Secure AI Systems</text><text x="1070" y="243" fill="#a9c4c8" font-size="14">Security Automation</text><text x="1070" y="272" fill="#00d9ff" font-size="13">AI FOR SECURITY</text>
+</g>
+</svg>

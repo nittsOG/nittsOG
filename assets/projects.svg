@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 540" role="img" aria-labelledby="title desc">
+<title id="title">Security project dashboard</title>
+<desc id="desc">Four security projects: iDECOP-ICS, PromptScribe, a VAPT assessment platform, and current security research.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#05080b"/><stop offset=".6" stop-color="#071217"/><stop offset="1" stop-color="#020507"/>
+  </linearGradient>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+    <path d="M44 0H0V44" fill="none" stroke="#0c3035" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1400" height="540" rx="22" fill="url(#bg)"/>
+<rect x="16" y="16" width="1368" height="508" rx="17" fill="url(#grid)" opacity=".58"/>
+<rect x="16" y="16" width="1368" height="508" rx="17" fill="none" stroke="#00d9a0" stroke-width="2"/>
+<text x="44" y="56" fill="#00ff9c" font-family="monospace" font-size="21" letter-spacing="3">// SECURITY PROJECTS</text>
+<text x="1354" y="56" text-anchor="end" fill="#5e8b91" font-family="monospace" font-size="14" letter-spacing="2">PROJECT_INDEX / 04</text>
+
+<g font-family="monospace">
+<!-- card 1 -->
+<rect x="44" y="82" width="642" height="190" rx="12" fill="#061014" stroke="#00ff9c" stroke-width="2"/>
+<text x="68" y="111" fill="#00ff9c" font-size="12" letter-spacing="2">SEC_001 // OT / ICS SECURITY</text>
+<text x="68" y="147" fill="#f1f7f8" font-size="27" font-weight="700">iDECOP-ICS</text>
+<text x="68" y="172" fill="#00d9ff" font-size="14">AI-ASSISTED DECEPTION PLACEMENT</text>
+<path d="M68 190H662" stroke="#12434a"/>
+<text x="68" y="213" fill="#a9c4c8" font-size="12">ATTACK PATHS · IEC 62443 · ATT&amp;CK FOR ICS</text>
+<text x="68" y="235" fill="#5e8b91" font-size="12">GRAPH MODEL · OPTIMIZATION · FASTAPI · REACT</text>
+<circle cx="69" cy="254" r="4" fill="#00ff9c"/><text x="82" y="258" fill="#00ff9c" font-size="11">PUBLIC PROJECT</text>
+
+<!-- card 2 -->
+<rect x="714" y="82" width="642" height="190" rx="12" fill="#061014" stroke="#00d9ff" stroke-width="2"/>
+<text x="738" y="111" fill="#00d9ff" font-size="12" letter-spacing="2">SEC_002 // SECURITY TOOLING</text>
+<text x="738" y="147" fill="#f1f7f8" font-size="27" font-weight="700">PromptScribe</text>
+<text x="738" y="172" fill="#00ff9c" font-size="14">TERMINAL SESSION RECORDING &amp; ANALYSIS</text>
+<path d="M738 190H1332" stroke="#12434a"/>
+<text x="738" y="213" fill="#a9c4c8" font-size="12">CLI · SESSION MANAGEMENT · PERSISTENT STORAGE</text>
+<text x="738" y="235" fill="#5e8b91" font-size="12">PYTHON · SQLALCHEMY · SQLITE</text>
+<circle cx="739" cy="254" r="4" fill="#00ff9c"/><text x="752" y="258" fill="#00ff9c" font-size="11">PUBLIC PROJECT</text>
+
+<!-- card 3 -->
+<rect x="44" y="296" width="642" height="190" rx="12" fill="#061014" stroke="#00d9ff" stroke-width="2"/>
+<text x="68" y="325" fill="#00d9ff" font-size="12" letter-spacing="2">SEC_003 // APPLICATION SECURITY</text>
+<text x="68" y="361" fill="#f1f7f8" font-size="27" font-weight="700">VAPT ASSESSMENT PLATFORM</text>
+<text x="68" y="386" fill="#00ff9c" font-size="14">METHODOLOGY-DRIVEN ASSESSMENT</text>
+<path d="M68 404H662" stroke="#12434a"/>
+<text x="68" y="427" fill="#a9c4c8" font-size="12">OWASP WSTG · EVIDENCE · FINDINGS · TRACEABILITY</text>
+<text x="68" y="449" fill="#5e8b91" font-size="12">ASSESSMENT WORKFLOW · HISTORICAL CONTEXT</text>
+<circle cx="69" cy="468" r="4" fill="#00ff9c"/><text x="82" y="472" fill="#00ff9c" font-size="11">IN DEVELOPMENT</text>
+
+<!-- card 4 -->
+<rect x="714" y="296" width="642" height="190" rx="12" fill="#061014" stroke="#00ff9c" stroke-width="2"/>
+<text x="738" y="325" fill="#00ff9c" font-size="12" letter-spacing="2">SEC_004 // SECURITY RESEARCH</text>
+<text x="738" y="361" fill="#f1f7f8" font-size="27" font-weight="700">ACTIVE SECURITY RESEARCH</text>
+<text x="738" y="386" fill="#00d9ff" font-size="14">CURRENT WORK / DETAILS WITHHELD</text>
+<path d="M738 404H1332" stroke="#12434a"/>
+<text x="738" y="427" fill="#a9c4c8" font-size="12">APPLICATION · PRODUCT · FIRMWARE · OT / ICS · AI</text>
+<text x="738" y="449" fill="#5e8b91" font-size="12">PUBLIC DETAILS WILL FOLLOW WHEN APPROPRIATE</text>
+<circle cx="739" cy="468" r="4" fill="#00ff9c"/><text x="752" y="472" fill="#00ff9c" font-size="11">IN PROGRESS</text>
+</g>
+</svg>

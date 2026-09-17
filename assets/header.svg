@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Naitik — Cyber Security</title>
+  <desc id="desc">Futuristic cyber security profile header for Naitik, focused on security engineering, VAPT, product security, OT/ICS and AI security.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05080b"/>
+      <stop offset="0.55" stop-color="#071217"/>
+      <stop offset="1" stop-color="#020507"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ff9c"/>
+      <stop offset="1" stop-color="#00d9ff"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#0c3035" stroke-width="1"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="520" rx="24" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1564" height="484" rx="18" fill="url(#grid)" opacity=".62"/>
+  <rect x="18" y="18" width="1564" height="484" rx="18" fill="none" stroke="#00d9a0" stroke-width="2"/>
+
+  <!-- HUD corners -->
+  <path d="M18 82H54M18 82V46M1546 82H1582M1582 82V46M18 438H54M18 438V474M1546 438H1582M1582 438V474"
+        fill="none" stroke="#00d9ff" stroke-width="3" opacity=".85"/>
+
+  <!-- Header strip -->
+  <text x="62" y="62" fill="#00ff9c" font-family="monospace" font-size="19" letter-spacing="3">SECURITY // ENGINEERING // RESEARCH</text>
+  <text x="1538" y="62" text-anchor="end" fill="#77a9b0" font-family="monospace" font-size="16" letter-spacing="2">SYS_001 / ONLINE</text>
+
+  <!-- Main identity -->
+  <text x="72" y="145" fill="#00ff9c" font-family="monospace" font-size="22" letter-spacing="4">HELLO, I'M</text>
+  <text x="68" y="222" fill="#f1f7f8" font-family="monospace" font-size="76" font-weight="700" letter-spacing="8">NAITIK</text>
+  <rect x="70" y="246" width="540" height="3" fill="url(#accent)" filter="url(#glow)"/>
+  <text x="72" y="294" fill="#00d9ff" font-family="monospace" font-size="30" font-weight="700" letter-spacing="4">CYBER SECURITY</text>
+  <text x="72" y="334" fill="#a9c4c8" font-family="monospace" font-size="18" letter-spacing="1">SECURITY ENGINEERING · SECURITY RESEARCH</text>
+
+  <!-- Domain tags -->
+  <g font-family="monospace" font-size="15" letter-spacing="1.5">
+    <rect x="72" y="370" width="112" height="36" rx="7" fill="#071b1d" stroke="#00ff9c"/>
+    <text x="128" y="394" text-anchor="middle" fill="#00ff9c">VAPT</text>
+    <rect x="194" y="370" width="132" height="36" rx="7" fill="#071b1d" stroke="#00d9ff"/>
+    <text x="260" y="394" text-anchor="middle" fill="#00d9ff">APPSEC</text>
+    <rect x="336" y="370" width="188" height="36" rx="7" fill="#071b1d" stroke="#00ff9c"/>
+    <text x="430" y="394" text-anchor="middle" fill="#00ff9c">PRODUCT SECURITY</text>
+    <rect x="534" y="370" width="118" height="36" rx="7" fill="#071b1d" stroke="#00d9ff"/>
+    <text x="593" y="394" text-anchor="middle" fill="#00d9ff">OT / ICS</text>
+    <rect x="662" y="370" width="142" height="36" rx="7" fill="#071b1d" stroke="#00ff9c"/>
+    <text x="733" y="394" text-anchor="middle" fill="#00ff9c">AI SECURITY</text>
+  </g>
+
+  <text x="72" y="451" fill="#5e8b91" font-family="monospace" font-size="17" letter-spacing="2">ASSESS  &gt;  ANALYZE  &gt;  ENGINEER  &gt;  SECURE</text>
+
+  <!-- Right-side cyber network -->
+  <g transform="translate(1160 265)">
+    <circle r="178" fill="none" stroke="#0b5961" stroke-width="2"/>
+    <circle r="142" fill="none" stroke="#00d9ff" stroke-width="2" opacity=".5"/>
+    <circle r="98" fill="none" stroke="#00ff9c" stroke-width="2" opacity=".35"/>
+    <ellipse rx="178" ry="58" fill="none" stroke="#00d9ff" stroke-width="2" opacity=".5"/>
+    <ellipse rx="178" ry="112" fill="none" stroke="#00ff9c" stroke-width="1.5" opacity=".3"/>
+    <path d="M-178 0H178M0-178V178" stroke="#0c5960" opacity=".5"/>
+
+    <g fill="#00ff9c" filter="url(#glow)">
+      <circle cx="-102" cy="-48" r="5"/><circle cx="80" cy="-86" r="5"/>
+      <circle cx="121" cy="38" r="5"/><circle cx="-61" cy="102" r="5"/>
+      <circle cx="-126" cy="65" r="4"/><circle cx="45" cy="125" r="4"/>
+    </g>
+
+    <g stroke="#00d9ff" stroke-width="2" opacity=".75">
+      <path d="M-102-48L0 0L80-86L121 38L45 125L0 0L-61 102L-126 65L-102-48"/>
+    </g>
+
+    <!-- shield -->
+    <path d="M0-58 L48-38 V5 C48 48 22 73 0 86 C-22 73-48 48-48 5 V-38 Z"
+          fill="#06171b" stroke="#00ff9c" stroke-width="3"/>
+    <path d="M0-32 L22-18 V5 C22 23 11 35 0 43 C-11 35-22 23-22 5 V-18 Z"
+          fill="none" stroke="#00d9ff" stroke-width="2"/>
+    <path d="M-11 5L-2 14L16-8" fill="none" stroke="#00ff9c" stroke-width="4"/>
+  </g>
+
+  <!-- Status panel -->
+  <g transform="translate(1365 112)">
+    <rect width="170" height="158" rx="10" fill="#061014" stroke="#0a7078" stroke-width="2"/>
+    <text x="18" y="30" fill="#00d9ff" font-family="monospace" font-size="14" letter-spacing="2">STATUS</text>
+    <circle cx="20" cy="57" r="5" fill="#00ff9c"/><text x="34" y="62" fill="#b9d0d3" font-family="monospace" font-size="14">SECURITY</text>
+    <circle cx="20" cy="84" r="5" fill="#00ff9c"/><text x="34" y="89" fill="#b9d0d3" font-family="monospace" font-size="14">RESEARCH</text>
+    <circle cx="20" cy="111" r="5" fill="#00ff9c"/><text x="34" y="116" fill="#b9d0d3" font-family="monospace" font-size="14">BUILDING</text>
+    <path d="M18 137H151" stroke="#12434a"/>
+    <text x="18" y="151" fill="#5e8b91" font-family="monospace" font-size="11">SECURITY-FIRST / nittsOG</text>
+  </g>
+
+  <!-- bottom telemetry -->
+  <text x="1532" y="451" text-anchor="end" fill="#00d9ff" font-family="monospace" font-size="14" letter-spacing="2">SECURITY-FIRST / nittsOG</text>
+</svg>

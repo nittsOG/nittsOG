@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 520" role="img" aria-labelledby="title desc">
+<title id="title">Security toolchain</title>
+<desc id="desc">Security tools and technologies organized by application, offensive, network, forensic, OT and engineering layers.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05080b"/><stop offset="1" stop-color="#07151a"/></linearGradient></defs>
+<rect width="1400" height="520" rx="20" fill="url(#bg)"/><rect x="18" y="18" width="1364" height="484" rx="16" fill="none" stroke="#00d9a0" stroke-width="2"/>
+<text x="55" y="64" fill="#00ff9c" font-family="monospace" font-size="22" letter-spacing="4">// SECURITY TOOLCHAIN</text>
+<g font-family="monospace">
+<g transform="translate(55 105)">
+<rect width="405" height="110" rx="12" fill="#061115" stroke="#00d9ff"/><text x="25" y="35" fill="#00d9ff" font-size="17" font-weight="700">APPLICATION SECURITY</text><text x="25" y="68" fill="#a9c4c8" font-size="13">VAPT · SAST · DAST · SCA</text><text x="25" y="91" fill="#5e8b91" font-size="12">OWASP WSTG · ASVS · API SECURITY</text>
+</g>
+<g transform="translate(497 105)">
+<rect width="405" height="110" rx="12" fill="#061115" stroke="#00ff9c"/><text x="25" y="35" fill="#00ff9c" font-size="17" font-weight="700">OFFENSIVE SECURITY</text><text x="25" y="68" fill="#a9c4c8" font-size="13">BURP · NMAP · METASPLOIT · GOBUSTER</text><text x="25" y="91" fill="#5e8b91" font-size="12">RECON · TESTING · ENUMERATION</text>
+</g>
+<g transform="translate(940 105)">
+<rect width="405" height="110" rx="12" fill="#061115" stroke="#00d9ff"/><text x="25" y="35" fill="#00d9ff" font-size="17" font-weight="700">NETWORK SECURITY</text><text x="25" y="68" fill="#a9c4c8" font-size="13">WIRESHARK · SNORT · TCP/IP</text><text x="25" y="91" fill="#5e8b91" font-size="12">IDS / IPS · FIREWALLS</text>
+</g>
+<g transform="translate(55 250)">
+<rect width="405" height="110" rx="12" fill="#061115" stroke="#00ff9c"/><text x="25" y="35" fill="#00ff9c" font-size="17" font-weight="700">DIGITAL FORENSICS</text><text x="25" y="68" fill="#a9c4c8" font-size="13">AUTOPSY · FTK IMAGER · ENCASE</text><text x="25" y="91" fill="#5e8b91" font-size="12">JADX · APKTOOL · MOBILE ANALYSIS</text>
+</g>
+<g transform="translate(497 250)">
+<rect width="405" height="110" rx="12" fill="#061115" stroke="#00d9ff"/><text x="25" y="35" fill="#00d9ff" font-size="17" font-weight="700">OT / ICS</text><text x="25" y="68" fill="#a9c4c8" font-size="13">MODBUS · SCADA · PURDUE MODEL</text><text x="25" y="91" fill="#5e8b91" font-size="12">IEC 62443 · ATT&amp;CK FOR ICS</text>
+</g>
+<g transform="translate(940 250)">
+<rect width="405" height="110" rx="12" fill="#061115" stroke="#00ff9c"/><text x="25" y="35" fill="#00ff9c" font-size="17" font-weight="700">ENGINEERING</text><text x="25" y="68" fill="#a9c4c8" font-size="13">PYTHON · C · BASH · SQL</text><text x="25" y="91" fill="#5e8b91" font-size="12">LINUX · DOCKER · GIT · VMWARE</text>
+</g>
+</g>
+<text x="700" y="430" text-anchor="middle" fill="#5e8b91" font-family="monospace" font-size="13" letter-spacing="2">TOOLS ARE IMPLEMENTATION LAYERS — SECURITY IS THE CORE</text>
+</svg>

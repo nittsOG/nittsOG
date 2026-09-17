@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 90" role="img" aria-labelledby="title">
+<title id="title">Cyber security section header</title>
+<rect width="1400" height="90" rx="12" fill="#05080b"/>
+<path d="M18 20H46M18 20V48M1354 20H1382M1382 20V48M18 70H46M18 70V42M1354 70H1382M1382 70V42" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<path d="M65 45H260M1140 45H1335" stroke="#0b5960" stroke-width="2"/>
+<circle cx="285" cy="45" r="4" fill="#00ff9c"/>
+<text x="310" y="53" fill="#00ff9c" font-family="monospace" font-size="23" letter-spacing="4">SECURITY TOOLCHAIN</text>
+<text x="1100" y="52" text-anchor="end" fill="#5e8b91" font-family="monospace" font-size="12" letter-spacing="2">MODULE // SEC_04</text>
+</svg>

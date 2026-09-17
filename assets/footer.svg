@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 210" role="img" aria-labelledby="title">
+<title id="title">Security profile footer</title>
+<rect width="1400" height="210" rx="22" fill="#05080b"/>
+<rect x="18" y="18" width="1364" height="174" rx="18" fill="none" stroke="#00d9a0" stroke-width="2"/>
+<text x="700" y="70" text-anchor="middle" fill="#00ff9c" font-family="monospace" font-size="16" letter-spacing="4">SYSTEM STATUS // SECURITY ACTIVE</text>
+<text x="700" y="118" text-anchor="middle" fill="#f1f7f8" font-family="monospace" font-size="27" font-weight="700" letter-spacing="3">ASSESS  &gt;  ANALYZE  &gt;  ENGINEER  &gt;  SECURE</text>
+<text x="700" y="158" text-anchor="middle" fill="#5e8b91" font-family="monospace" font-size="13" letter-spacing="2">nittsOG // CYBER SECURITY // ENGINEERING // RESEARCH</text>
+</svg>

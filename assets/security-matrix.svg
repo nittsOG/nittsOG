@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 400" role="img" aria-labelledby="title desc">
+<title id="title">Cybersecurity focus matrix</title>
+<desc id="desc">Security is the core domain with application, product, OT/ICS, AI and research focus areas.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05080b"/><stop offset=".6" stop-color="#071217"/><stop offset="1" stop-color="#020507"/></linearGradient>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#0c3035" stroke-width="1"/></pattern>
+</defs>
+<rect width="1400" height="400" rx="22" fill="url(#bg)"/>
+<rect x="16" y="16" width="1368" height="368" rx="17" fill="url(#grid)" opacity=".58"/>
+<rect x="16" y="16" width="1368" height="368" rx="17" fill="none" stroke="#00d9a0" stroke-width="2"/>
+<text x="44" y="56" fill="#00ff9c" font-family="monospace" font-size="21" letter-spacing="3">// SECURITY DOMAINS</text>
+<g font-family="monospace">
+<rect x="44" y="92" width="1312" height="72" rx="10" fill="#061014" stroke="#00ff9c" stroke-width="2"/>
+<text x="700" y="136" text-anchor="middle" fill="#f1f7f8" font-size="26" font-weight="700">CYBER SECURITY</text>
+<path d="M270 164V188M510 164V188M890 164V188M1130 164V188" stroke="#00d9ff" stroke-width="2"/>
+<g>
+<rect x="44" y="188" width="272" height="132" rx="10" fill="#061014" stroke="#00d9ff" stroke-width="2"/>
+<text x="64" y="219" fill="#00d9ff" font-size="16" font-weight="700">APPLICATION</text>
+<text x="64" y="247" fill="#a9c4c8" font-size="12">VAPT · SAST · DAST · SCA</text>
+<text x="64" y="270" fill="#5e8b91" font-size="12">OWASP WSTG · ASVS · API</text>
+
+<rect x="332" y="188" width="272" height="132" rx="10" fill="#061014" stroke="#00ff9c" stroke-width="2"/>
+<text x="352" y="219" fill="#00ff9c" font-size="16" font-weight="700">PRODUCT / DEVICE</text>
+<text x="352" y="247" fill="#a9c4c8" font-size="12">FIRMWARE · PROTOCOLS</text>
+<text x="352" y="270" fill="#5e8b91" font-size="12">HARDENING · ASSESSMENT</text>
+
+<rect x="620" y="188" width="272" height="132" rx="10" fill="#061014" stroke="#00d9ff" stroke-width="2"/>
+<text x="640" y="219" fill="#00d9ff" font-size="16" font-weight="700">OT / ICS</text>
+<text x="640" y="247" fill="#a9c4c8" font-size="12">INDUSTRIAL NETWORKS · SCADA</text>
+<text x="640" y="270" fill="#5e8b91" font-size="12">IEC 62443 · ATT&amp;CK FOR ICS</text>
+
+<rect x="908" y="188" width="272" height="132" rx="10" fill="#061014" stroke="#00ff9c" stroke-width="2"/>
+<text x="928" y="219" fill="#00ff9c" font-size="16" font-weight="700">AI SECURITY</text>
+<text x="928" y="247" fill="#a9c4c8" font-size="12">AI FOR SECURITY</text>
+<text x="928" y="270" fill="#5e8b91" font-size="12">SECURE AI SYSTEMS · AUTOMATION</text>
+
+<rect x="1196" y="188" width="160" height="132" rx="10" fill="#061014" stroke="#00d9ff" stroke-width="2"/>
+<text x="1216" y="219" fill="#00d9ff" font-size="16" font-weight="700">RESEARCH</text>
+<text x="1216" y="247" fill="#a9c4c8" font-size="12">THREAT</text>
+<text x="1216" y="270" fill="#5e8b91" font-size="12">ANALYSIS</text>
+</g></g>
+</svg>
